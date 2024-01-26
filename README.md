@@ -14,4 +14,4 @@
 Collect zoveel mogelijk coins en haal het einde! 
 
 ## Screenshot
-<img width="1280" alt="game6" src="https://github.com/UwRekening/FastPaced/assets/66946691/8f80a26f-800e-4f7d-ac91-43c3f3d256b2">
+<img width="1280" alt="game6" src="https://github.com/UwRekening/Johan-Is-Stuck-Game/assets/66946691/67cca373-0ffd-431a-8698-855631c3a32e">
